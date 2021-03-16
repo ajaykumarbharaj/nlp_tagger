@@ -1,0 +1,33 @@
+{
+  "system_exception": [
+    "unable to launch",
+    "failed to fetch data",
+    "site issue",
+    "code stage",
+    "exception",
+    "hresult",
+    "automatically set cleanup",
+    "code stage",
+    "out of memory",
+    "unexpected exception",
+    "operation failed",
+    "internal",
+    "evaluate expression",
+    "code stage",
+    "unexpected exception",
+    "operation failed",
+    "time out",
+    "failed to perform"
+  ],
+  "business_exception": [
+    "missing mandatory fields",
+    "mail id not found",
+    "invite not found",
+    "template not found",
+    "error in input file",
+    "not contain",
+    "field missing",
+    "to be processed manually"
+
+  ]
+}
