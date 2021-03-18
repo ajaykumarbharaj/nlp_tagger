@@ -1,161 +1,161 @@
-﻿Exception with tags
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-Business Exception:Invite not found in both TAX and PAS mailbox
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-Business Exception:Email Id not found Failed to read Email
-System Exception:Automatically set exception at CleanUp
-System Exception:Automatically set exception at CleanUp
-System Exception:Automatically set exception at CleanUp
-System Exception:Automatically set exception at CleanUp
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-System Exception:Automatically set exception at CleanUp
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-System Exception:Automatically set exception on session end
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-Business Exception:Recruiter xxxx mail ID not found in invite. 
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in Assurance Mailbox
-Business Exception:Exception occured while accessing article page. This article is unable to be processed.
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Invite not found in both CBS mailbox
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Invite not found in both CBS mailbox
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Missing mandatory fields
-Business Exception:Invite not found in Consulting Mailbox
-Business Exception:Invite not found in Consulting Mailbox
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
-System Exception:Internal:No data found for new work queue items
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-Business Exception:Email Id not found Failed to read Email
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Email Id not found Failed to read Email
-Business Exception:Interviewer xxxx mail ID not found in invite. 
-Business Exception:On Page:Populated Filterd Data Into QueueFile Not Contain any valid APAC Country data:
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-System Exception:Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-Business Exception:Mandatory field missing - PO not created by parent
-"System Exception:InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-System Exception:Internal:No data found for new work queue items
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-Business Exception:2036 - SA - NO Entries to be Processed
-System Exception:System Exception:Unable to Launch Service Now site after three retries
-Business Exception:Mandatory field missing - PO not created by parent To be proecssed manually
-Business Exception:On Page:Populated Filterd Data Into QueueFile Not Contain any valid APAC Country data:
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-System Exception:Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - The object invoked has disconnected from its clients. (Exception from HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
-Business Exception:Mandatory field missing - PO not created by parent
-"Business Exception:Email does not contains the right Subject, subject does not start with **"
-System Exception:BBC Update failed for BBC ID- 209- The remote server returned an error: (504) Gateway Timeout.
-System Exception:BBC Update failed for BBC ID- 421- The remote server returned an error: (504) Gateway Timeout.
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-Business Exception:2034 - TFD - NO Entries to be Processed
-Business Exception:2034 - TFD - NO Entries to be Processed
-Business Exception:2036 - SA - NO Entries to be Processed
-Business Exception:2034 - TFD - NO Entries to be Processed
-"System Exception:Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
-"System Exception:Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-"Business Exception:Email template not found, Bot failed to send the output file"
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-System Exception:Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
-"System Exception:Failed to perform step 1 in Navigate Stage 'Navigate1' on page 'N-Search Req' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) - Failed to update data to BBC"
-System Exception:Unable to launch Taleo application
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-"Business Exception:Email does not contains the right Subject, subject does not start with **"
-Business Exception:Error in Input File
-System Exception:Internal:Failed to perform step 1 in Write Stage 'Clear short desc' on page 'W-ProblemTicket-Tabs' - Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-System Exception:Could not execute code stage because exception thrown by code stage: Call was rejected by callee. (Exception from HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
-"System Exception:Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
-System Exception:Exception occured at ES_ITS_TDR_SCCM : Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Application already launched
-"Business Exception:Email does not contains the right Subject, subject does not start with **"
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-System Exception:Unexpected Error occured in adding requests in a request form to queue
-"System Exception:Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
-Business Exception:The Main Collection does not contain 'NodeLevel'
-System Exception:Could not execute code stage because exception thrown by code stage: Exception from HRESULT: 0x800A9C68
-System Exception:System Exception :Unable to Launch the RAM Site: Unable to update the Opportunity ID
-System Exception:Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - Exception while finding new RACE form - RACE : Failure to find Textbox value
-System Exception:Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - RACE : Failure to find Textbox value
-System Exception:Failed to fetch data from RACE tool due to site issue - Failed to perform step 1 in Navigate Stage 'Click Search and filter' on page 'Click-Home' - Error creating window handle.
-System Exception:Could not execute code stage because exception thrown by code stage: Out of memory.
-System Exception:Internal_Could not execute code stage because exception thrown by code stage: The control could not be found by id.
-System Exception:Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - No elements match the supplied query terms
-System Exception:BBC Update failed for BBC ID- 330- The remote server returned an error: (504) Gateway Timeout.
-System Exception:Failed to perform step 1 in Navigate Stage 'Click On the Number' on page 'Click On Task SLA' - Cannot find region identified as an image.
-System Exception:Error in populating result in output template - Unexpected error occured in running output  macro
-System Exception:Error in populating result in output template - Unexpected error occured in running output  macro
-"System Exception:Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
+﻿Exception (input),Exception Category (ouput)
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+Invite not found in both TAX and PAS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Email Id not found Failed to read Email,Business Exception
+Automatically set exception at CleanUp,System Exception
+Automatically set exception at CleanUp,System Exception
+Automatically set exception at CleanUp,System Exception
+Automatically set exception at CleanUp,System Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Automatically set exception at CleanUp,System Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+Automatically set exception on session end,System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+Recruiter xxxx mail ID not found in invite. ,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in Assurance Mailbox,Business Exception
+Exception occured while accessing article page. This article is unable to be processed.,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+System Exception,System Exception
+Invite not found in both CBS mailbox,Business Exception
+Invite not found in both CBS mailbox,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Missing mandatory fields,Business Exception
+Invite not found in Consulting Mailbox,Business Exception
+Invite not found in Consulting Mailbox,Business Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Internal,System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Email Id not found Failed to read Email,Business Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Internal,System Exception
+Internal,System Exception
+Internal,System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Email Id not found Failed to read Email,Business Exception
+Email Id not found Failed to read Email,Business Exception
+Interviewer xxxx mail ID not found in invite. ,Business Exception
+On Page,Business Exception
+Internal,System Exception
+Internal,System Exception
+Internal,System Exception
+Internal,System Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+Mandatory field missing - PO not created by parent,Business Exception
+"InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c",System Exception
+System Exception,System Exception
+Internal,System Exception
+System Exception,System Exception
+System Exception,System Exception
+System Exception,System Exception
+System Exception,System Exception
+2036 - SA - NO Entries to be Processed,Business Exception
+System Exception,System Exception
+Mandatory field missing - PO not created by parent To be proecssed manually,Business Exception
+On Page,Business Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - The object invoked has disconnected from its clients. (Exception from HRESULT,System Exception
+Mandatory field missing - PO not created by parent,Business Exception
+"Email does not contains the right Subject, subject does not start with **",Business Exception
+BBC Update failed for BBC ID- 209- The remote server returned an error,System Exception
+BBC Update failed for BBC ID- 421- The remote server returned an error,System Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+2034 - TFD - NO Entries to be Processed,Business Exception
+2034 - TFD - NO Entries to be Processed,Business Exception
+2036 - SA - NO Entries to be Processed,Business Exception
+2034 - TFD - NO Entries to be Processed,Business Exception
+Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method,System Exception
+Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method,System Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+"Email template not found, Bot failed to send the output file",Business Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.,System Exception
+Failed to perform step 1 in Navigate Stage 'Navigate1' on page 'N-Search Req' - Failed while invoking javascript method,System Exception
+Unable to launch Taleo application,System Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+"Email does not contains the right Subject, subject does not start with **",Business Exception
+Error in Input File,Business Exception
+Internal,System Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method,System Exception
+Exception occured at ES_ITS_TDR_SCCM ,System Exception
+"Email does not contains the right Subject, subject does not start with **",Business Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+Unexpected Error occured in adding requests in a request form to queue,System Exception
+Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method,System Exception
+The Main Collection does not contain 'NodeLevel',Business Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+System Exception ,System Exception
+Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - Exception while finding new RACE form - RACE ,System Exception
+Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - RACE ,System Exception
+Failed to fetch data from RACE tool due to site issue - Failed to perform step 1 in Navigate Stage 'Click Search and filter' on page 'Click-Home' - Error creating window handle.,System Exception
+Could not execute code stage because exception thrown by code stage,System Exception
+Internal_Could not execute code stage because exception thrown by code stage,System Exception
+Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - No elements match the supplied query terms,System Exception
+BBC Update failed for BBC ID- 330- The remote server returned an error,System Exception
+Failed to perform step 1 in Navigate Stage 'Click On the Number' on page 'Click On Task SLA' - Cannot find region identified as an image.,System Exception
+Error in populating result in output template - Unexpected error occured in running output  macro,System Exception
+Error in populating result in output template - Unexpected error occured in running output  macro,System Exception
+Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method,System Exception

@@ -19,3 +19,9 @@ Create an input excel file, with a list of exceptions.
 * Business exception
 * System exception
 * Other
+
+## Usage
+run `pip install -r requirements.txt` to install libraries
+
+train model `python train.py`
+predict model `python predict.py -s <STR: sentence to predict>`
