@@ -9,9 +9,10 @@ from tqdm import tqdm
 import joblib
 import nltk
 
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('wordnet')
+# nltk.download('stopwords')
+
 cores = multiprocessing.cpu_count()
 
 
