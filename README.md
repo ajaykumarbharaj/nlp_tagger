@@ -24,4 +24,5 @@ Create an input excel file, with a list of exceptions.
 run `pip install -r requirements.txt` to install libraries
 
 train model `python train.py`
-predict model `python predict.py -s <STR: sentence to predict>`
+Once the model is trained and saved in model directory. Launch API server using
+run `uvicron api:app --reload` and access the api documentation on `http://127.0.0.1:8000/docs`
